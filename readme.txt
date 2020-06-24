@@ -1,10 +1,4 @@
- HEAD
-no
-no
-no
-yes
-
-
-nonono
-yesyesyes
- e
+一帆风顺
+南辕北辙
+大相径庭
+一蹴而就
